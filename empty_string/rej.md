@@ -1,4 +1,4 @@
-## Empty language FDA (∅)
+## Empty string FDA
 
 ### Rejection state
 

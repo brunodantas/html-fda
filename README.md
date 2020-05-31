@@ -2,5 +2,4 @@
 
 Implementation of finite deterministic automata using pure HTML.
 
-States are HTML pages and transitions are hyperlinks.
-
+https://brunodantas.github.io/html-fda

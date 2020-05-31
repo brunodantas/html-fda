@@ -7,5 +7,5 @@ The following FDA are defined over the alphabet {0, 1}, including the empty stri
 - [Empty language (∅)](empty/s1.md)
 - [Empty string](empty_string/s1.md)
 - [0*](zstar/s1.md)
-- [0*1*](zstarostar/s1.md)
+- [0\*1\*](zstarostar/s1.md)
 - [Words containing even number of 0](even/s1.md)

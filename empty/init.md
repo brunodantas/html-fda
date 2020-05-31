@@ -1,6 +1,6 @@
 ## Empty language FDA (∅)
 
-### Initial state
+### State 1
 
 Pick the next symbol.
 

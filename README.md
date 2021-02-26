@@ -2,4 +2,6 @@
 
 Implementation of finite deterministic automata using pure HTML.
 
-https://brunodantas.github.io/html-fda
+Accessible via https://brunodantas.github.io/html-fda
+
+Made as part of an answer on [StackOverflow](https://stackoverflow.com/a/62123963/2853953).
